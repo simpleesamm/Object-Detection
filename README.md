@@ -1,5 +1,5 @@
-# Object-Detection
-General Repository for Yolov4_Darknet & Tensorflow Object Detction
+
+# General Repository for Yolov4_Darknet & Tensorflow Object Detection
 
 This is my main object detection pipeline where you can train a model from scratch with darknet and further port it to Tensorflow if needed. 
 
